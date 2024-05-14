@@ -16,4 +16,5 @@
 - Intent: são usados para iniciar atividades, serviços e enviar mensagens entre componentes do aplicativo. Neste projeto foi utilizado o método startActivity(intent) para iniciar uma nova tela ao clicar no botão.
 - onResume(): método do ciclo de vida de uma atividade e é chamado quando a atividade está retomando o foco. É chamado após o método onStart() e antes do método onPostResume(). Em resumo, ele é usado para realizar tarefas que precisam ser feitas quando a atividade está visível para o usuário. Não é chamado quando a atividade é criada pela primeira vez.
 
-![Screenshot](firstProjectICMSimg.png)
+![Screenshot](mei1.png)
+![Screenshot](mei2.png)
